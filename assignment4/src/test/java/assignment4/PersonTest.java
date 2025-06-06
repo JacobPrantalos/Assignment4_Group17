@@ -9,7 +9,7 @@ public class PersonTest {
      */
     // These tests are for the validation of the "personID" field
     @Test
-    public void testPersonID() {
+    public void testPersonID(){
         Person person = new Person(); 
         boolean result;
         
